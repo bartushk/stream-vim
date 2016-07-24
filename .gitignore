@@ -1,0 +1,4 @@
+bundle/
+.netrwhist
+*.pyc
+*eclim*
